@@ -1,2 +1,2 @@
-# new writing systems
-new writing systems for conlangs, feel free to use them for your own but give credit please
+# for existing languages
+made with the intention of using it for an existing language but can be used for conlangs
